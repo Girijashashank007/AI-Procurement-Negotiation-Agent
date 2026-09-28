@@ -1,0 +1,4 @@
+hindsight-client
+python-dotenv
+groq
+flask

@@ -1,0 +1,98 @@
+[
+  {
+    "vendor_name": "Apex Logistics",
+    "content": "Apex has maintained a 98.6% on-time delivery rate across 42 shipments since January 2024, with zero quality disputes filed. During the Q3 2025 rate renewal, they proactively offered a 5% volume discount on orders exceeding 500 units without any pressure tactics being applied. Their account manager, Priya Nair, has consistently honored verbal commitments in writing within 24 hours.",
+    "context": "Q3 Contract Renewal",
+    "timestamp": "2025-07-14T09:30:00Z"
+  },
+  {
+    "vendor_name": "Nexus Components",
+    "content": "Nexus delayed the Q2 2025 shipment of PCB assemblies by 14 days citing supply chain issues, causing a production line stoppage at our Chennai facility. When we threatened to shift 30% of volume to a secondary supplier (Meridian Circuits), they provided a 12% discount on the next batch and waived shipping fees. Note: this is the third delay in five quarters, so their reliability score should be flagged as declining.",
+    "context": "Emergency Supply Order",
+    "timestamp": "2025-05-02T14:15:00Z"
+  },
+  {
+    "vendor_name": "Solvex Chemicals",
+    "content": "Solvex quoted a 9% price increase for industrial solvents citing raw material inflation, but refused to budge during initial discussions. Only after we escalated to their VP of Sales and presented a competing quote from BlueRock Industrial ($4.20/L vs their $4.65/L) did they agree to cap the increase at 4%. Standard soft pushback (asking for 'best and final') did not work; only a documented competing quote moved them.",
+    "context": "Annual Rate Negotiation",
+    "timestamp": "2025-03-19T11:00:00Z"
+  },
+  {
+    "vendor_name": "Falcon Freight Solutions",
+    "content": "Falcon has had four separate quality complaints in 2025 regarding damaged pallets on arrival, averaging 7% damage rate versus the industry benchmark of 2%. Despite multiple discussions, they have only offered token credits of $150 per incident rather than addressing root packaging issues. Threats to terminate the contract have been made twice but not followed through, and their behavior has not changed as a result.",
+    "context": "Quality Dispute Resolution",
+    "timestamp": "2025-08-22T16:45:00Z"
+  },
+  {
+    "vendor_name": "Greenfield AgroSupply",
+    "content": "Greenfield onboarded smoothly in Q1 2025 with a 6-month trial contract at $18,000/month for raw material supply. They matched our target price on the first quote without negotiation, which is unusual and worth monitoring for hidden quality shortcuts. First two deliveries arrived 2 days early with no defects reported.",
+    "context": "New Vendor Onboarding",
+    "timestamp": "2025-01-10T08:00:00Z"
+  },
+  {
+    "vendor_name": "Titan Steel Works",
+    "content": "Titan initially refused to extend payment terms beyond Net-30, but after we bundled the request with a commitment to increase order volume by 20% for the next two quarters, they agreed to Net-45 terms. This confirms Titan responds well to volume-commitment leverage rather than direct discount requests. Delivery performance has been consistent at 95% on-time over the past year.",
+    "context": "Payment Terms Renegotiation",
+    "timestamp": "2025-06-05T13:20:00Z"
+  },
+  {
+    "vendor_name": "Orbit Packaging Co.",
+    "content": "Orbit offered a straightforward 8% bulk discount on corrugated packaging orders above 10,000 units, no negotiation tactics required. However, their lead time quietly increased from 10 days to 18 days over the past two quarters without notice, which offset the savings in practice. Recommend clarifying lead-time SLAs before the next order.",
+    "context": "Bulk Order Discount",
+    "timestamp": "2025-04-28T10:10:00Z"
+  },
+  {
+    "vendor_name": "Meridian Circuits",
+    "content": "Meridian was used as competitive leverage against Nexus Components and responded with an aggressive quote of $2.85/unit, 12% below Nexus's list price, to win a pilot order of 5,000 units. Their sample batch passed QA with zero defects, but they have no track record with us beyond this single transaction. Worth a formal trial order before shifting significant volume.",
+    "context": "Spot Buy Negotiation",
+    "timestamp": "2025-05-06T09:45:00Z"
+  },
+  {
+    "vendor_name": "Ironclad Fasteners",
+    "content": "Ironclad has delayed shipments by an average of 9 days across the last six orders, consistently citing 'customs clearance issues' that do not hold up under scrutiny since two other vendors clear the same port without delay. Late delivery penalty clauses were invoked once in July 2025, resulting in a $2,400 credit, but this did not deter subsequent delays. Escalation to their regional director is planned for next renewal.",
+    "context": "Late Delivery Penalty Discussion",
+    "timestamp": "2025-07-30T15:00:00Z"
+  },
+  {
+    "vendor_name": "Summit Industrial Supplies",
+    "content": "Summit refused any price concessions for over a year until we issued a formal 30-day contract termination notice in June 2025, at which point they immediately countered with a 15% discount and a dedicated account manager. This confirms Summit only responds to hard termination threats, not softer negotiation approaches like competitor quotes or bulk commitments. Post-negotiation service quality has improved noticeably.",
+    "context": "Contract Termination Threat",
+    "timestamp": "2025-06-18T12:00:00Z"
+  },
+  {
+    "vendor_name": "Beacon Electronics",
+    "content": "Beacon agreed to a 24-month volume commitment of 50,000 units/year in exchange for locking pricing at $6.10/unit, a 3% reduction from spot pricing. This was a straightforward win-win negotiation with no friction; their sales team proactively modeled the savings for us. Delivery reliability has held at 99% on-time across the 8 months since signing.",
+    "context": "Volume Commitment Negotiation",
+    "timestamp": "2025-02-11T10:30:00Z"
+  },
+  {
+    "vendor_name": "Coastal Resins Ltd.",
+    "content": "Coastal invoked a force majeure claim in March 2025 following a regional flood, delaying shipment by 21 days. They offered no compensation initially, but after we requested documentation to validate the claim under contract clause 7.2, they voluntarily provided a 10% discount on the next two orders as goodwill. Their transparency during the dispute was better than most vendors in similar situations.",
+    "context": "Force Majeure Claim",
+    "timestamp": "2025-03-25T17:20:00Z"
+  },
+  {
+    "vendor_name": "Vertex Industrial Gases",
+    "content": "Vertex attempted a 14% price increase for Q3 2025, well above the 5% inflation benchmark we tracked across three comparable suppliers. Simply presenting the benchmark data in writing was enough for them to revise the increase down to 6% without further escalation. This vendor appears highly responsive to data-driven pushback rather than requiring threats.",
+    "context": "Price Increase Pushback",
+    "timestamp": "2025-08-01T11:15:00Z"
+  },
+  {
+    "vendor_name": "Harbor Point Machining",
+    "content": "Harbor Point has had recurring tolerance defects on precision-machined parts, with a 6.5% rejection rate over the last three shipments against a 1% contractual threshold. They have acknowledged the issue but blamed a subcontractor rather than taking direct accountability, and no discount or remediation has been offered despite two formal complaints. Recommend flagging for supplier consolidation review given the quality trend.",
+    "context": "Quality Dispute Resolution",
+    "timestamp": "2025-09-05T13:40:00Z"
+  },
+  {
+    "vendor_name": "Pinnacle Office Solutions",
+    "content": "During the supplier consolidation review, Pinnacle offered to absorb our three smaller stationery and office-supply vendors under one contract at a blended 11% discount versus current combined spend. They also agreed to Net-60 terms without any pushback, likely to win the larger consolidated account. No history of quality issues in the 14 months we've worked with them on a smaller scale.",
+    "context": "Supplier Consolidation Review",
+    "timestamp": "2025-09-12T09:00:00Z"
+  },
+  {
+    "vendor_name": "BlueRock Supplies",
+    "context": "Electronics supplier",
+    "content": "Last quarter, BlueRock quoted $4.65 per unit.\nAfter we showed a competing quote of $4.20, they reduced the price to $4.20.\nDelivery was on time and there were no quality issues.",
+    "timestamp": "2026-09-28T09:31:51.044300+00:00"
+  }
+]
